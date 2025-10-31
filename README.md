@@ -1,1 +1,1 @@
-It id Azure Project made by me SrijitBarui 
+It is Azure Project made by me SrijitBarui 
